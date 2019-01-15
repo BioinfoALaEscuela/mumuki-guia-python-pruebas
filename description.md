@@ -1,0 +1,1 @@
+Esta área se utiliza con el fin de realizar pruebas independientes.
